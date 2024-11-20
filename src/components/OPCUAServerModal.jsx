@@ -356,6 +356,7 @@ const OPCUAServerModal = ({ isOpen, onClose }) => {
           >
             Save Configuration
           </button>
+          <p>newly added</p>
         </div>
       </div>
     </div>
